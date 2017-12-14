@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1513267370307' stop='1513267374650'>
+    <name>Locator testing By Repeater</name>
+    <title>Locator testing By Repeater</title>
+    <test-cases>
+        <test-case start='1513267370308' status='passed' stop='1513267373343'>
+            <name>Validate user credentials from data provider</name>
+            <title>Validate user credentials from data provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2968e020-749e-4102-8ca9-6abd2f6015ad-attachment.png' type='image/png' size='36068'/>
+            </attachments>
+        </test-case>
+        <test-case start='1513267373343' status='passed' stop='1513267374650'>
+            <name>Validate user credentials from data provider</name>
+            <title>Validate user credentials from data provider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8782e375-4391-4972-8410-b13481a931ee-attachment.png' type='image/png' size='37779'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

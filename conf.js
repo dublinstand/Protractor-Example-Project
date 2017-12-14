@@ -6,7 +6,7 @@ exports.config = {
   },
   framework: 'jasmine2',
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['ValidateTitlesTest.js'],
+  specs: ['GmailTest.js'],
 
   //Options to be passed to Jasmine
   jasmineNodeOpts: {

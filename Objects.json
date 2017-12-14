@@ -1,0 +1,20 @@
+{
+  "testsiteurl":"http://gmail.com",
+
+  "locators":{
+
+    "loginpage":{
+
+      "username":"//*[@id='identifierId']",
+      "next":"Next"
+
+    }
+  },
+
+  "userdetails":{
+
+    "username":"trainer@trainer.com",
+    "password":"Test123"
+
+  }
+}
