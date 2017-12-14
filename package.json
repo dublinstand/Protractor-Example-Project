@@ -1,0 +1,32 @@
+{
+	"name" : " ProtractorTest ", 
+	"version" : "0.0.0", 
+	"description" : " ProtractorTest ", 
+	"main": " app.js", 
+	"author" : {
+	"name": "Don Dido Di" , 
+	"email" : ""
+	},
+
+
+	"devDependencies" : {
+
+	"astrolabe": "^0.3.6",
+	"jasmine-reporters" : "^2.0.0",
+	"protractor" : "~2.2.0",
+	"protractor-html-screenshot-reporter": "0.0.21",
+	"protractor-jasmine2-html-reporter": "0.0.5",
+	"protractor-jasmine2-screenshot-reporter": "^0.1.7",
+	"winston": "^1.0.1"
+
+	},
+
+
+	"dependencies": {
+
+	"path": "^0.12.7",
+	"promise": "^7.0.4"
+
+	}
+
+}
