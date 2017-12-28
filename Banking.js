@@ -3,11 +3,11 @@ describe("Test Automation of a banking app", function() {
 	it("validate customer login", function() {
 		browser.get("http://www.way2automation.com/angularjs-protractor/banking/#/login");
 		browser.manage().window().maximize();
-		
+
 		//We can click on a button, by passing its text with By.buttonText("value")
 		element(By.buttonText("Customer Login")).click();
 		browser.sleep(2000);
-		
+
 		//we verify that correct title is displayed
 		expect(browser.getTitle()).toContain("Protractor practice");
 		

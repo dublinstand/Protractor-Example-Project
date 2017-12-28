@@ -4,7 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="ProtractorTest node_modules" level="project" />
-    <orderEntry type="library" name="Node.js v6.11.0 Core Modules" level="application" />
+    <orderEntry type="library" name="protractor-helpers-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="protractor-browser-logs-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="protractor-http-mock-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jasmine-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="selenium-webdriver-DefinitelyTyped" level="application" />
   </component>
 </module>
